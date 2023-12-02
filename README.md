@@ -1,4 +1,3 @@
-# Bésa
 This repository is the official resource library for my world building process for Bésa, a fictional country inhabited by the second race to inhabit this alternate universe version of Earth, elves.
 
 Check back semi-often as I'll be updating this ReadMe file whenever I make progress I want to share.
