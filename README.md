@@ -2,11 +2,11 @@ This repository is the official resource library for my world building process f
 
 Check back semi-often as I'll be updating this ReadMe file whenever I make progress I want to share.
 
-*-- Joshua Maynard*
+*-- J*
 
 
-## Updates
-**Date: 01/12/2023**
+### updates
+*date: 01-DEC-2023*
 
  - `/flag` Uploaded the Bésian flag in a number of formats, and a number of colour systems.
 
